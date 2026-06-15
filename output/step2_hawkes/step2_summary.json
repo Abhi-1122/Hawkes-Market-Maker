@@ -1,0 +1,23 @@
+{
+  "n_trades": 164922,
+  "n_buy": 88469,
+  "n_sell": 76453,
+  "buy_fraction": 0.5364293423557803,
+  "sell_fraction": 0.4635706576442197,
+  "avg_lambda_buy_ewm": 3.899793795571683,
+  "avg_lambda_sell_ewm": 3.336368279423239,
+  "hawkes_fit": {
+    "success": true,
+    "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "fun": -72445.37040625437,
+    "params": {
+      "mu_buy": 0.041561052479339305,
+      "mu_sell": 0.025188229895045707,
+      "alpha_bb": 0.03186960694069744,
+      "alpha_bs": 0.013610092641757063,
+      "alpha_ss": 0.019559522038383716,
+      "alpha_sb": 0.023707552810904264,
+      "beta": 0.9457595062060707
+    }
+  }
+}
