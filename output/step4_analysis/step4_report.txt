@@ -1,0 +1,21 @@
+STEP 4 COMPLETE
+
+Overall best run: hawkes__A_0.12__k_4.0__h_5
+Overall best final MTM PnL: 11592.47
+Overall best risk-adjusted score: 11450.01
+
+Best Hawkes run
+  run_id: hawkes__A_0.12__k_4.0__h_5
+  final_mtm_pnl: 11592.47
+  risk_adjusted_score: 11450.01
+  avg_markout_all_fills: -0.245607
+
+Best Baseline run
+  run_id: baseline__A_0.12__k_4.0__h_5
+  final_mtm_pnl: 10723.18
+  risk_adjusted_score: 10527.80
+  avg_markout_all_fills: -0.250611
+
+Hawkes vs Baseline Aggregate
+  baseline: mean_final_mtm_pnl=5283.10, median_final_mtm_pnl=4517.32, mean_risk_adjusted_score=5083.70, mean_avg_markout_all_fills=-0.182461, mean_total_adverse_selection_cost=5565.69
+  hawkes: mean_final_mtm_pnl=6117.26, median_final_mtm_pnl=5463.57, mean_risk_adjusted_score=5933.94, mean_avg_markout_all_fills=-0.178501, mean_total_adverse_selection_cost=5891.94
