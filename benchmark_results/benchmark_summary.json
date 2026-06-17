@@ -1,0 +1,18 @@
+{
+  "n_measured_runs": 20,
+  "wall_ms_mean": 221.88671165,
+  "wall_ms_median": 221.795248,
+  "wall_ms_p95": 224.27053935,
+  "wall_ms_p99": 224.67997187,
+  "throughput_eps_mean": 105464.12569288033,
+  "throughput_eps_median": 105502.71699729397,
+  "throughput_eps_p05": 104338.29814470999,
+  "throughput_eps_p95": 106655.66742451886,
+  "peak_rss_kb_mean": 16758.8,
+  "peak_rss_kb_max": 17048.0,
+  "engine_p50_us_median": 0.076,
+  "engine_p95_us_median": 0.09,
+  "engine_p99_us_median": 0.102,
+  "engine_max_us_max": 9.308,
+  "latency_budget_exceeded_total": 0
+}
